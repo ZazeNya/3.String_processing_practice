@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* Задача 4
-     В строке найти количество цифр.
+     В строке найти количество чисел.
     */
 public class Program {
     public static void main(String[] args) {
